@@ -5,7 +5,7 @@
     font-family: 'Open Sans', sans-serif;
 }
 body {
-    background-image: url('../asset/ft\ &\ vd/background.jpg');
+    background-image: url('../asset/images backgrounds/background.jpg');
     background-size: cover; /* Gambar akan memenuhi seluruh area dengan rasio yang benar */
     background-position: center; /* Posisikan gambar di tengah */
     background-repeat: no-repeat; /* Hindari pengulangan gambar */
